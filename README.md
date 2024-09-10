@@ -1,2 +1,2 @@
 # Studing
-learning android studio
+Sofya Kadochnikova МПБ-201
